@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "obsidian/templates/日复盘模板.md",
+    "folder": "E 复盘/A 日复盘",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "obsidian/templates/周复盘模板.md",
+    "folder": "E 复盘/B 周复盘",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "obsidian/templates/月复盘模板.md",
+    "folder": "E 复盘/C 月复盘",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "obsidian/templates/年复盘模板.md",
+    "folder": "E 复盘/D 年复盘",
+    "enabled": true
+  }
+}

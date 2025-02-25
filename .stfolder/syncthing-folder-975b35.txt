@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 知识库
+created: 2025-02-06T12:49:41+08:00

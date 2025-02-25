@@ -1,0 +1,15 @@
+{
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-custom",
+  "blue-topaz-theme@@folder-note-dot": false,
+  "blue-topaz-theme@@folder-colorful-custom-color@@light": "#36CA75",
+  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#FFFFFF",
+  "blue-topaz-theme@@inline-title-line-height": 1.2,
+  "blue-topaz-theme@@toggle-paragraph-spacing": true,
+  "blue-topaz-theme@@paragraph-spacing": 2,
+  "blue-topaz-theme@@funny-header-anim": true,
+  "blue-topaz-theme@@h2-line-height": 2,
+  "blue-topaz-theme@@h1-line-height": 2,
+  "blue-topaz-theme@@h3-line-height": 2,
+  "blue-topaz-theme@@h4-line-height": 2
+}

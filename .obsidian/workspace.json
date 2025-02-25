@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "7c322c6595a88ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "756dd146a7668c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28645e04897bbbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G 随笔/助理考试现场确认.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aad9955d418c91d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f17e553ba88f6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966db35362a2bbb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40ebf69f1e1d891d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "百年孤独",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02a6782a0ee3ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d792e57a5fbe31f4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "4a3060f778361a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "75fc225ddb829c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0009a653453e98e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "G 随笔/助理考试现场确认.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7b686e25781b4fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "G 随笔/助理考试现场确认.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3dbb5b7049b0fb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25733c4ba5dc90dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "G 随笔/助理考试现场确认.md"
+              }
+            }
+          },
+          {
+            "id": "e3661d8edbdee0e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7b940ecd825b59fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "F 口腔医学/B 牙体牙髓病学/09. 牙髓根尖周病的治疗/00. 牙髓根尖周病的治疗.md"
+              }
+            }
+          },
+          {
+            "id": "5bcb3946ea8b19fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "35402d5bde48d937",
+            "type": "leaf",
+            "state": {
+              "type": "chinese-calendar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 652.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templates:插入模板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "28645e04897bbbb2",
+  "lastOpenFiles": [
+    "G 随笔/随便写写.md",
+    "G 随笔/助理考试现场确认.md",
+    "G 随笔/每日规划.md",
+    "A 读书/D 生活/D 两性/亲密关系/01. 章节内容.md",
+    "F 口腔医学/C 儿童口腔医学/05. 牙外伤/00. 牙外伤.md",
+    "E 复盘/A 日复盘/2025-02-18.md",
+    "F 口腔医学/D 口腔组织病理学",
+    "F 口腔医学/助理医考相关/助理医考相关.md",
+    "F 口腔医学/口腔诊所.md",
+    "A 读书/书单/2025.md",
+    "A 读书/A 文学/A 文学/百年孤独/人物关系图.md",
+    "obsidian/attachments/Pasted image 20240926143104.png",
+    "A 读书/A 文学/A 文学/百年孤独/百年孤独.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/01. 乳牙滞留.md",
+    "F 口腔医学/C 儿童口腔医学/02. 牙髓病和根尖周病/00. 牙髓病和根尖周病.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/05. 融合牙（助理不考）.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/04. 多生牙（助理不考）.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/03. 迟萌（助理不考）.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/02. 早萌.md",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/00. 牙发育异常.md",
+    "obsidian/attachments/Pasted image 20250218114502.png",
+    "F 口腔医学/C 儿童口腔医学/03. 咬合发育问题/01. 乳牙早失.md",
+    "F 口腔医学/C 儿童口腔医学/03. 咬合发育问题/00. 咬合发育问题.md",
+    "F 口腔医学/C 儿童口腔医学/02. 牙髓病和根尖周病/02. 恒牙牙髓病和根尖周病.md",
+    "F 口腔医学/C 儿童口腔医学/02. 牙髓病和根尖周病/01. 乳牙牙髓病和根尖周病.md",
+    "F 口腔医学/C 儿童口腔医学/01. 龋病/02. 年轻恒牙龋.md",
+    "F 口腔医学/C 儿童口腔医学/01. 龋病/01. 乳牙龋.md",
+    "F 口腔医学/C 儿童口腔医学/01. 龋病/00. 龋病.md",
+    "E 复盘/A 日复盘/2025-02-16.md",
+    "obsidian/attachments/Pasted image 20250216151632.png",
+    "obsidian/attachments/Pasted image 20250216121824.png",
+    "obsidian/attachments/Pasted image 20250215165545.png",
+    "obsidian/attachments/Pasted image 20250215161808.png",
+    "obsidian/attachments/Pasted image 20250215161751.png",
+    "F 口腔医学/C 儿童口腔医学/05. 牙外伤",
+    "F 口腔医学/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️",
+    "F 口腔医学/C 儿童口腔医学/03. 咬合发育问题",
+    "F 口腔医学/C 儿童口腔医学/02. 牙髓病和根尖周病",
+    "F 口腔医学/C 儿童口腔医学/01. 龋病",
+    "F 口腔医学/C 儿童口腔医学",
+    "obsidian/attachments/Pasted image 20250215150634.png",
+    "obsidian/attachments/Pasted image 20250214102102.png",
+    "obsidian/attachments/Pasted image 20250214102049.png",
+    "E 复盘/D 年复盘",
+    "E 复盘/C 月复盘",
+    "E 复盘/B 周复盘",
+    "未命名.canvas",
+    "A 读书/C 文化/C 哲学/R/人生的智慧 ⭐️⭐️⭐️⭐️⭐️/未命名.canvas",
+    "读书/A 文学/G 短篇小说/R/未命名.canvas",
+    "读书/C 文化/A 历史/未命名.canvas",
+    "读书/个人成长/未命名.canvas"
+  ]
+}

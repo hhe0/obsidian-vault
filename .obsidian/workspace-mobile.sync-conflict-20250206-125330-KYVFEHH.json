@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "326341e5525da120",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e235f63a96d146f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb968bf6cb482706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/02. 牙的组成、分类及功能.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f74f63644c9fcf0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d19b1f1bfad1e7c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1a3904181b2e63b3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf7e73772881a68c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b72ff9f79024b82e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "296d2c9729ad6be0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "cca0864ddf63171b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1f045425af6fdc93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4afd8b642a36f0c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/02. 牙的组成、分类及功能.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "15d132363589ff68",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/02. 牙的组成、分类及功能.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2cb570255e2894d7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/02. 牙的组成、分类及功能.md"
+          }
+        }
+      },
+      {
+        "id": "31332120112edc61",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "5d19b1f1bfad1e7c",
+  "lastOpenFiles": [
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/01. 牙的演化（助理不考）.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/00. 牙体解剖生理.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/05. 牙体解剖常用名词和解剖标志.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/04. 牙的萌出及乳恒牙更替 ⭐️.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/03. 牙位记录方法 ⭐️.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/02. 牙的组成、分类及功能.md",
+    "G 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/06. 牙体外形及生理意义 ⭐️.md"
+  ]
+}

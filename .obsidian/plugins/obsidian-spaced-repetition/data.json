@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "flashcardEasyText": "简单",
+    "flashcardGoodText": "记得",
+    "flashcardHardText": "较难",
+    "reviewButtonDelay": 0,
+    "flashcardTags": [
+      "#flashcards",
+      "#口腔解剖生理学"
+    ],
+    "convertFoldersToDecks": false,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "randomizeCardOrder": null,
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": true,
+    "convertCurlyBracketsToClozes": true,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "multilineCardEndMarker": "",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#review"
+    ],
+    "noteFoldersToIgnore": [
+      "**/*.excalidraw.md"
+    ],
+    "openRandomNote": false,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "showRibbonIcon": true,
+    "showStatusBar": true,
+    "initiallyExpandAllSubdecksInTree": false,
+    "algorithm": "SM-2-OSR",
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 2,
+    "maximumInterval": 500,
+    "maxLinkFactor": 1,
+    "dataStore": "NOTES",
+    "cardCommentOnSameLine": false,
+    "showSchedulingDebugMessages": false,
+    "showParserDebugMessages": false
+  },
+  "buryDate": "",
+  "buryList": [],
+  "historyDeck": null
+}
