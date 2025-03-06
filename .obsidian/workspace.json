@@ -11,8 +11,12 @@
             "id": "28645e04897bbbb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "E 复盘/A 日复盘/2025-03-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E 复盘/A 日复盘/2025-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E 复盘/A 日复盘/2025-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "E 复盘/A 日复盘/2025-03-06.md"
+              }
             }
           },
           {
@@ -191,6 +199,7 @@
   },
   "active": "28645e04897bbbb2",
   "lastOpenFiles": [
+    "E 复盘/A 日复盘/2025-03-06.md",
     "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle/metadata.plist",
     "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle/contents.xml",
     "obsidian_副本/思维导图/亲密关系chap02.mindnode/style.mindnodestyle/metadata.plist",
@@ -201,7 +210,6 @@
     "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle",
     "obsidian_副本/思维导图/亲密关系chap03.mindnode/contents.xml",
     "obsidian_副本/思维导图/亲密关系chap03.mindnode/QuickLook",
-    "obsidian_副本/思维导图/亲密关系chap02.mindnode/viewState.plist",
     "obsidian_副本/attachments/Pasted image 20240925171734.png",
     "obsidian_副本/attachments/Pasted image 20240925175234.png",
     "obsidian_副本/attachments/Pasted image 20240925170416.png",
