@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "756dd146a7668c39",
+        "id": "31b98de8d8293469",
         "type": "tabs",
         "children": [
           {
-            "id": "28645e04897bbbb2",
+            "id": "90033caf843f2629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E 复盘/A 日复盘/2025-03-06.md",
+                "file": "E 复盘/A 日复盘/2025-03-12.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2eb9e3dc7877851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 釉质.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E 复盘/A 日复盘/2025-03-06.md",
+                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 釉质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E 复盘/A 日复盘/2025-03-06.md",
+                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 釉质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E 复盘/A 日复盘/2025-03-06.md"
+                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 釉质.md"
               }
             }
           },
@@ -197,19 +210,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28645e04897bbbb2",
+  "active": "c2eb9e3dc7877851",
   "lastOpenFiles": [
+    "E 复盘/A 日复盘/2025-03-12.md",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 釉质.md",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/00. 牙体组织.md",
+    "F 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/01. 牙的演化（助理不考）.md",
+    "F 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/00. 牙体解剖生理.md",
+    "E 复盘/B 周复盘/2025-W11.md",
+    "obsidian/templates/周复盘模板.md",
+    "obsidian/templates/日复盘模板.md",
+    "E 复盘/C 月复盘/2025-03.md",
     "E 复盘/A 日复盘/2025-03-06.md",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle/metadata.plist",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle/contents.xml",
-    "obsidian_副本/思维导图/亲密关系chap02.mindnode/style.mindnodestyle/metadata.plist",
-    "obsidian_副本/思维导图/亲密关系chap02.mindnode/style.mindnodestyle/contents.xml",
-    "obsidian_副本/思维导图/亲密关系chap01.mindnode/style.mindnodestyle/metadata.plist",
-    "obsidian_副本/思维导图/亲密关系chap01.mindnode/style.mindnodestyle/contents.xml",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/viewState.plist",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/style.mindnodestyle",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/contents.xml",
-    "obsidian_副本/思维导图/亲密关系chap03.mindnode/QuickLook",
+    "E 复盘/A 日复盘/2025-02-18.md",
+    "E 复盘/D 年复盘/2025.md",
+    "F 口腔医学/B 口腔组织病理学/14. 牙源性肿瘤/02. 口腔黏膜癌.md",
+    "F 口腔医学/B 口腔组织病理学/14. 牙源性肿瘤/01. 良性牙源性肿瘤.md",
+    "F 口腔医学/B 口腔组织病理学/14. 牙源性肿瘤/00. 牙源性肿瘤.md",
+    "F 口腔医学/B 口腔组织病理学/13. 口腔颌面部囊肿/02. 非牙源性囊肿.md",
+    "F 口腔医学/B 口腔组织病理学/14. 牙源性肿瘤",
+    "F 口腔医学/B 口腔组织病理学/未命名.md",
+    "F 口腔医学/B 口腔组织病理学/13. 口腔颌面部囊肿/01. 牙源性囊肿.md",
+    "F 口腔医学/B 口腔组织病理学/13. 口腔颌面部囊肿/00. 口腔颌面部囊肿.md",
+    "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病/03. 艾滋病的口腔表现（助理不考）.md",
+    "F 口腔医学/B 口腔组织病理学/13. 口腔颌面部囊肿",
+    "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病/02. 常见口腔黏膜病.md",
+    "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病/01. 基本病理变化.md",
+    "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病/00. 口腔黏膜病.md",
+    "F 口腔医学/B 口腔组织病理学/11. 牙周组织疾病/02. 牙周炎.md",
+    "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病",
+    "F 口腔医学/B 口腔组织病理学/11. 牙周组织疾病/01. 牙龈病.md",
+    "F 口腔医学/B 口腔组织病理学/11. 牙周组织疾病/00. 牙周组织疾病.md",
+    "F 口腔医学/B 口腔组织病理学/11. 牙周组织疾病",
+    "F 口腔医学/B 口腔组织病理学/10. 根尖周病",
+    "F 口腔医学/B 口腔组织病理学/09. 牙髓病",
+    "F 口腔医学/B 口腔组织病理学/08. 龋病",
+    "F 口腔医学/B 口腔组织病理学/07. 牙的发育异常",
+    "F 口腔医学/B 口腔组织病理学/06. 牙的发育 ⭐️",
+    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️",
     "obsidian_副本/attachments/Pasted image 20240925171734.png",
     "obsidian_副本/attachments/Pasted image 20240925175234.png",
     "obsidian_副本/attachments/Pasted image 20240925170416.png",
@@ -220,31 +258,6 @@
     "obsidian_副本/attachments/Pasted image 20250124101238.png",
     "obsidian_副本/attachments/Pasted image 20240925173527.png",
     "obsidian_副本/attachments/Pasted image 20240925175156.png",
-    "obsidian_副本/templates/读书笔记模板.md",
-    "obsidian_副本/templates/周复盘模板.md",
-    "obsidian_副本/templates/月复盘模板.md",
-    "obsidian_副本/templates/日复盘模板.md",
-    "obsidian_副本/templates/菜谱模板.md",
-    "obsidian_副本/templates/年复盘模板.md",
-    "obsidian_副本/绘图/2024-09-14 13.37.00.md",
-    "obsidian_副本/绘图/2024-10-11 22.44.39.md",
-    "obsidian_副本/绘图/2024-10-06 10.54.03.md",
-    "G 随笔_副本/复盘.md",
-    "G 随笔_副本/助理考试现场确认.md",
-    "G 随笔_副本/随便写写.md",
-    "G 随笔_副本/牙齿美白.md",
-    "G 随笔_副本/如何写读书笔记.md",
-    "G 随笔_副本/每日规划.md",
-    "F 口腔医学_副本/C 儿童口腔医学/01. 龋病/00. 龋病.md",
-    "F 口腔医学_副本/C 儿童口腔医学/01. 龋病/02. 年轻恒牙龋.md",
-    "F 口腔医学_副本/C 儿童口腔医学/01. 龋病/01. 乳牙龋.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/04. 多生牙（助理不考）.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/02. 早萌.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/05. 融合牙（助理不考）.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/01. 乳牙滞留.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/03. 迟萌（助理不考）.md",
-    "F 口腔医学_副本/C 儿童口腔医学/04. 牙发育异常 ⭐️⭐️⭐️/00. 牙发育异常.md",
-    "F 口腔医学_副本/C 儿童口腔医学/02. 牙髓病和根尖周病/00. 牙髓病和根尖周病.md",
     "未命名.canvas",
     "A 读书/C 文化/C 哲学/R/人生的智慧 ⭐️⭐️⭐️⭐️⭐️/未命名.canvas",
     "读书/A 文学/G 短篇小说/R/未命名.canvas",
