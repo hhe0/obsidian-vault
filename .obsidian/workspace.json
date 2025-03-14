@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
+                "file": "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/02. 牙周膜.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
+                "file": "E 复盘/A 日复盘/2025-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
+                "file": "E 复盘/A 日复盘/2025-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md"
+                "file": "E 复盘/A 日复盘/2025-03-14.md"
               }
             }
           },
@@ -210,29 +209,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "662e87a3b494e420",
+  "active": "90033caf843f2629",
   "lastOpenFiles": [
+    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/02. 牙周膜.md",
+    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/01. 牙龈.md",
+    "obsidian/attachments/Pasted image 20250314113200.png",
+    "obsidian/attachments/Pasted image 20250314112242.png",
+    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/00. 牙周组织.md",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/04. 牙骨质.md",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/00. 牙体组织.md",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/03. 牙髓.md",
+    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/04. 种植体周围组织（助理不考）.md",
+    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/03. 牙槽骨.md",
+    "obsidian/attachments/Pasted image 20250314110638.png",
+    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
+    "E 复盘/A 日复盘/2025-03-14.md",
     "obsidian/attachments/Pasted image 20250314110032.png",
     "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 牙釉质.md",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
     "obsidian/attachments/Pasted image 20250314104057.png",
     "obsidian/attachments/Pasted image 20250314101221.png",
     "obsidian/attachments/Pasted image 20250314100828.png",
     "obsidian/attachments/Pasted image 20250314100813.png",
     "obsidian/attachments/Pasted image 20250314100722.png",
     "obsidian/attachments/Pasted image 20250314100430.png",
-    "obsidian/attachments/Pasted image 20250314100321.png",
-    "obsidian/attachments/Pasted image 20250314100319.png",
-    "obsidian/attachments/Pasted image 20250314100133.png",
-    "obsidian/attachments/Pasted image 20250314100012.png",
-    "E 复盘/A 日复盘/2025-03-14.md",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/00. 牙体组织.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/02. 牙周膜.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/04. 种植体周围组织（助理不考）.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/03. 牙槽骨.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/01. 牙龈.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/00. 牙周组织.md",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/04. 牙骨质.md",
     "E 复盘/A 日复盘/2025-03-12.md",
     "E 复盘/A 日复盘/2025-03-13.md",
     "obsidian/templates/周复盘模板.md",
@@ -240,7 +239,6 @@
     "obsidian/templates/日复盘模板.md",
     "H 失败集/暴饮暴食.md",
     "H 失败集",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/03. 牙髓.md",
     "F 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/01. 牙的演化（助理不考）.md",
     "F 口腔医学/A 口腔解剖生理学/01. 牙体解剖生理 ⭐️/00. 牙体解剖生理.md",
     "E 复盘/B 周复盘/2025-W11.md",
