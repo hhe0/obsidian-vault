@@ -8,39 +8,43 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2c7b128e071fa665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E 蛤蟆的油/B 周复盘/2025-W11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a77f5d6d07e121ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E 蛤蟆的油/A 日复盘/2025-03-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5627f68c5478732b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E 复盘/A 日复盘/2025-03-16.md",
+                "file": "F 口腔医学/B 口腔组织病理学/08. 龋病/03. 牙骨质龋.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d07ffbc6e2975fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E 复盘/B 周复盘/2025-W11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc0599b79380e74",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E 蛤蟆的油/A 日复盘/2025-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E 蛤蟆的油/A 日复盘/2025-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "E 蛤蟆的油/A 日复盘/2025-03-16.md"
+              }
             }
           },
           {
@@ -197,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,54 +222,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cc0599b79380e74",
+  "active": "a77f5d6d07e121ce",
   "lastOpenFiles": [
-    "E 复盘/B 周复盘/2025-W11.md",
-    "E 复盘/A 日复盘/2025-03-16.md",
-    "E 复盘/A 日复盘/2025-03-14.md",
-    "E 复盘/A 日复盘/2025-03-15.md",
-    "F 口腔医学/助理医考相关/助理医考相关.md",
-    "F 口腔医学/B 口腔组织病理学/04. 唾液腺 ⭐️/02. 组织学特点.md",
+    "E 蛤蟆的油/B 周复盘/2025-W11.md",
+    "E 蛤蟆的油/A 日复盘/2025-03-16.md",
+    "F 口腔医学/B 口腔组织病理学/08. 龋病/03. 牙骨质龋.md",
+    "F 口腔医学/B 口腔组织病理学/08. 龋病/02. 牙本质龋.md",
+    "F 口腔医学/B 口腔组织病理学/08. 龋病/01. 釉质龋.md",
+    "obsidian/attachments/Pasted image 20250316194532.png",
+    "obsidian/attachments/Pasted image 20250316192958.png",
+    "obsidian/attachments/Pasted image 20250316192858.png",
+    "F 口腔医学/B 口腔组织病理学/08. 龋病/00. 龋病.md",
+    "F 口腔医学/B 口腔组织病理学/09. 牙髓病/01..md",
+    "F 口腔医学/B 口腔组织病理学/09. 牙髓病/00. 牙髓病.md",
+    "F 口腔医学/B 口腔组织病理学/07. 牙的发育异常/02. 牙变色（助理不考）.md",
+    "F 口腔医学/B 口腔组织病理学/07. 牙的发育异常/01. 牙结构异常.md",
+    "F 口腔医学/B 口腔组织病理学/07. 牙的发育异常/00. 牙的发育异常.md",
+    "obsidian/templates/周复盘模板.md",
+    "obsidian/templates/月复盘模板.md",
+    "F 口腔医学/B 口腔组织病理学/06. 牙的发育 ⭐️/02. 牙体、牙周组织的形成.md",
+    "F 口腔医学/B 口腔组织病理学/06. 牙的发育 ⭐️/01. 牙胚发生与分化.md",
+    "F 口腔医学/B 口腔组织病理学/06. 牙的发育 ⭐️/00. 牙的发育.md",
     "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/00. 口腔颌面部发育.md",
-    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/05. 唾液腺的发育（助理不考）.md",
-    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/06. 颌骨的发育（助理不考）.md",
-    "F 口腔医学/B 口腔组织病理学/04. 唾液腺 ⭐️/01. 组织结构.md",
-    "F 口腔医学/B 口腔组织病理学/04. 唾液腺 ⭐️/00. 唾液腺.md",
-    "F 口腔医学/B 口腔组织病理学/03. 口腔黏膜 ⭐️/02. 分类及组织结构.md",
-    "F 口腔医学/B 口腔组织病理学/03. 口腔黏膜 ⭐️/01. 基本结构.md",
-    "F 口腔医学/B 口腔组织病理学/03. 口腔黏膜 ⭐️/00. 口腔黏膜.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/02. 牙周膜.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/04. 种植体周围组织（助理不考）.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/00. 牙周组织.md",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/03. 牙槽骨.md",
-    "obsidian/attachments/Pasted image 20250314124646.png",
-    "F 口腔医学/B 口腔组织病理学/02. 牙周组织 ⭐️/01. 牙龈.md",
-    "obsidian/attachments/Pasted image 20250314113200.png",
-    "obsidian/attachments/Pasted image 20250314112242.png",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/04. 牙骨质.md",
     "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/00. 牙体组织.md",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/03. 牙髓.md",
-    "obsidian/attachments/Pasted image 20250314110638.png",
+    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/02. 面部的发育.md",
+    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/04. 舌的发育.md",
+    "obsidian/attachments/WechatIMG2064.jpg",
+    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/03. 腭部的发育.md",
+    "F 口腔医学/B 口腔组织病理学/05. 口腔颌面部发育 ⭐️/01. 鳃弓和神经嵴.md",
+    "obsidian/attachments/Pasted image 20250316113913.png",
+    "obsidian/attachments/WechatIMG2058.jpg",
+    "obsidian/attachments/Pasted image 20250316110320.png",
+    "obsidian/attachments/Pasted image 20250316110126.png",
+    "obsidian/attachments/Pasted image 20250316103022.png",
+    "obsidian/attachments/Pasted image 20250316101526.png",
+    "F 口腔医学/B 口腔组织病理学/04. 唾液腺 ⭐️/01. 组织结构.md",
+    "F 口腔医学/B 口腔组织病理学/03. 口腔黏膜 ⭐️/00. 口腔黏膜.md",
     "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/02. 牙本质.md",
-    "obsidian/attachments/Pasted image 20250314110032.png",
-    "F 口腔医学/B 口腔组织病理学/01. 牙体组织 ⭐️/01. 牙釉质.md",
-    "obsidian/attachments/Pasted image 20250314104057.png",
-    "obsidian/attachments/Pasted image 20250314101221.png",
-    "obsidian/attachments/Pasted image 20250314100828.png",
-    "obsidian/attachments/Pasted image 20250314100813.png",
-    "obsidian/attachments/Pasted image 20250314100722.png",
-    "E 复盘/A 日复盘/2025-03-12.md",
-    "E 复盘/A 日复盘/2025-03-13.md",
-    "H 失败集",
+    "I 思维模型",
+    "E 复盘/B 周复盘",
+    "E 复盘",
+    "H N宗罪",
     "F 口腔医学/B 口腔组织病理学/14. 牙源性肿瘤",
     "F 口腔医学/B 口腔组织病理学/13. 口腔颌面部囊肿",
     "F 口腔医学/B 口腔组织病理学/12. 口腔黏膜病",
     "F 口腔医学/B 口腔组织病理学/11. 牙周组织疾病",
     "F 口腔医学/B 口腔组织病理学/10. 根尖周病",
     "F 口腔医学/B 口腔组织病理学/09. 牙髓病",
-    "F 口腔医学/B 口腔组织病理学/08. 龋病",
-    "F 口腔医学/B 口腔组织病理学/07. 牙的发育异常",
-    "F 口腔医学/B 口腔组织病理学/06. 牙的发育 ⭐️",
     "未命名.canvas",
     "A 读书/C 文化/C 哲学/R/人生的智慧 ⭐️⭐️⭐️⭐️⭐️/未命名.canvas",
     "读书/A 文学/G 短篇小说/R/未命名.canvas",
