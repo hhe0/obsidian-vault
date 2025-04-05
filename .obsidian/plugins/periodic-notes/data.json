@@ -5,19 +5,19 @@
   "daily": {
     "format": "",
     "template": "obsidian/templates/日复盘模板.md",
-    "folder": "E 蛤蟆的油/A 日复盘",
+    "folder": "D 蛤蟆的油/A 日复盘",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "obsidian/templates/周复盘模板.md",
-    "folder": "E 蛤蟆的油/B 周复盘",
+    "folder": "D 蛤蟆的油/B 周复盘",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "obsidian/templates/月复盘模板.md",
-    "folder": "E 蛤蟆的油/C 月复盘",
+    "folder": "D 蛤蟆的油/C 月复盘",
     "enabled": true
   },
   "quarterly": {
@@ -28,7 +28,7 @@
   "yearly": {
     "format": "",
     "template": "obsidian/templates/年复盘模板.md",
-    "folder": "E 蛤蟆的油/D 年复盘",
+    "folder": "D 蛤蟆的油/D 年复盘",
     "enabled": true
   }
 }
